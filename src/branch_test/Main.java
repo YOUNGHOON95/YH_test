@@ -5,8 +5,13 @@ public class Main {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
 
-           System.out.println("HELLO YH");
+
+           System.out.println("HELLO YH word");
            System.out.println("stay14 HHoon YOUNGHOON");
+
+           System.out.println("HELLO word");
+           System.out.println("stay YOUNGHOON");
+
            System.out.println("71summernight");
            System.out.println("hyunjin");
            System.out.println("stay1 YOUNGHOON");
