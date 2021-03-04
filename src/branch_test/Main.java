@@ -7,6 +7,7 @@ public class Main {
            System.out.println("HELLO");
            System.out.println("71summernight");
            System.out.println("hyunjin");
+           System.out.println("stay1 YOUNGHOON");
     }
 
 }
